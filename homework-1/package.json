@@ -1,5 +1,5 @@
 {
-  "homepage": "http://NikitosekPro.github.io/REACT-HOMEWORK-!",
+  "homepage": "./src/App.js",
   "name": "homework-1",
   "version": "0.1.0",
   "private": true,
